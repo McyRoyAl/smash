@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/smash2_1.dir/main.cpp.o CMakeFiles/smash2_1.dir/commands.cpp.o CMakeFiles/smash2_1.dir/smash.cpp.o CMakeFiles/smash2_1.dir/signals.cpp.o CMakeFiles/smash2_1.dir/utils.cpp.o -o smash2_1 
